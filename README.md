@@ -1,2 +1,5 @@
 # atelierPython
-Course material, sometimes wrong, sometimes improvable, just to learn and explain
+
+This is not a project.
+
+It's just a course material, sometimes wrong, sometimes improvable, just to learn and explain to students.
